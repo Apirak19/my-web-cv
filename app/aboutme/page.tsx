@@ -1,5 +1,5 @@
 import React, { FC } from "react";
-import '../globals.css'
+import "../globals.css";
 interface pageProps {}
 
 import Nav from "../components/navbar";
