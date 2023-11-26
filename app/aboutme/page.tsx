@@ -146,6 +146,7 @@ const page: FC<pageProps> = ({}) => {
                       projects by learning from the best practice and efficient
                       methods.
                     </p>
+                    <p>trying to add Todo here</p>
                   </div>
                 </div>
               </div>
